@@ -1,0 +1,22 @@
+# is a organization repository
+organization: false
+
+# site title
+title: Rookie
+
+# user name or organization name
+user: Maxxxz
+
+# issue repository
+repository: JS,html,html5,node,npm,react,redux,webpack and so on
+
+# multi-author
+authors: max
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: c#7b67045e6f57d183098e06e2a83d48216bc5a20
+
+# posts per page
+perpage: 10
